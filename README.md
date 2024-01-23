@@ -3,7 +3,7 @@
 Hi, I am Emily Xia. I am now a senior computer science student in National Tsing Hua University(NTHU). 
 I am interested in the Information System, ML-System and also hope to contribute more to the Open Source Community.
 
-Please contact 
+I am looking for internships of Software Engineer, please feel free to contact me. 
 
 ## 💪 What can I do?
 
@@ -39,6 +39,7 @@ Please contact
 
 ## 👋 Feel free to contact
 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](x1204585568@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/Xiayucheng1212)
 [![linkedin](https://img.shields.io/badge/Linkedin-0af?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yu-cheng-xia-630800201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmiOEwwU1QMO%2FxemAU5LCAw%3D%3D)
 
