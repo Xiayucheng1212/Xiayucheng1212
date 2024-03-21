@@ -7,7 +7,6 @@ I am looking for internships of Software Engineer, please feel free to contact m
 
 ## 💪 What can I do?
 
-![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
 ![vmware](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![whmcs](https://img.shields.io/badge/WHMCS-333?style=flat&logo=whmcs&logoColor=white)
@@ -28,14 +27,12 @@ I am looking for internships of Software Engineer, please feel free to contact m
 ![css3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📚 What am I learning?
-![vuejs](https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![reactjs](https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white)
-
+![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
 
 ## 🚀 What am I working on?
 
 * Contributing to the Open Source -- Submitty
-* Learning Distributed System from online courses
+* Contributing to Linux Community
 
 ## 👋 Feel free to contact
 
